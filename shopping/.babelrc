@@ -1,0 +1,6 @@
+//用来编译es6代码
+{
+    "presets": ["es2015"],
+    "plugins": ["transform-runtime"],
+    "comments": false
+}
